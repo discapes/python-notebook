@@ -2,3 +2,12 @@ ipywidgets
 voila
 matplotlib
 numpy
+jupyterlab-git
+
+### with conda/mambda
+# xeus-sqlite
+# jupyterlab
+
+### apt
+# r-base
+# r-cran-irkernel
