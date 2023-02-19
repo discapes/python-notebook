@@ -3,6 +3,8 @@ voila
 matplotlib
 numpy
 jupyterlab-git
+rpy2
+pandas
 
 ### with conda/mambda
 # xeus-sqlite
